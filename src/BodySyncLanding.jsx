@@ -40,7 +40,7 @@ export default function BodySyncLanding() {
       <section id="signup" className="py-24 text-center bg-primary text-white px-6">
         <h2 className="text-3xl font-bold mb-6">Entra nella lista d’attesa</h2>
         <p className="mb-8 text-lg">Ricevi in anteprima l’accesso a BodySync AI e alle offerte lancio.</p>
-        <form action="https://mailchimp-placeholder-url.com" method="post" target="_blank" className="flex flex-col md:flex-row justify-center items-center gap-4 max-w-xl mx-auto">
+        <form action="https://us4.admin.mailchimp.com/audience/forms/embedded-form/editor?a_id=389966&f_id=239289" method="post" target="_blank" className="flex flex-col md:flex-row justify-center items-center gap-4 max-w-xl mx-auto">
           <input type="email" name="EMAIL" required placeholder="Inserisci la tua email" className="px-4 py-3 rounded-full text-gray-900 w-full md:w-2/3 focus:outline-none"/>
           <button type="submit" className="bg-accent hover:bg-green-400 text-white px-6 py-3 rounded-full font-semibold">Iscriviti</button>
         </form>
